@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FilmTask</string>
+    <string name="randomfilmtextbutton">Выбрать случайный фильм</string>
+</resources>
